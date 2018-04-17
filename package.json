@@ -1,5 +1,5 @@
 {
-  "name": "@mediasmart/eslint-config",
+  "name": "eslint-config-mediasmart",
   "version": "1.0.0",
   "description": "Javascript and JSON style lint for Mediasmart",
   "main": "index.js",
