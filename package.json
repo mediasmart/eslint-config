@@ -1,0 +1,26 @@
+{
+  "name": "@mediasmart/eslint-config",
+  "version": "1.0.0",
+  "description": "Javascript and JSON style lint for Mediasmart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mediasmart/eslint-config.git"
+  },
+  "keywords": [
+    "javascript",
+    "json",
+    "lint",
+    "eslint",
+    "style"
+  ],
+  "author": "Sergio García Mondaray <sgmonda@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mediasmart/eslint-config/issues"
+  },
+  "homepage": "https://github.com/mediasmart/eslint-config#readme"
+}
