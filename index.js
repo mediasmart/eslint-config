@@ -20,6 +20,7 @@ module.exports = {
     "complexity": ["error", 10],
     "global-require": "off",
     "eqeqeq": "warn",
+    "func-names": ["warning", "as-needed"],
     "max-len": [1, 120, { "tabWidth": 2, "ignoreComments": true }],
     "max-lines": ["error", 350],
     "no-await-in-loop": "off",
