@@ -4,6 +4,7 @@ module.exports = {
   "globals": {
     "atom": true,
     "before": true,
+    "after": true,
     "describe": true,
     "it": true,
     "settings": true
