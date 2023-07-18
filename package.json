@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mediasmart",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Javascript and JSON style lint for Mediasmart",
   "dependencies": {
     "eslint-config-airbnb": "^14.1.0",
